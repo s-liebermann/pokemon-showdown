@@ -194,4 +194,8 @@ export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 		inherit: true,
 		isNonstandard: "Future",
 	},
+	beanbarrage: {
+		inherit: true,
+		isNonstandard: "Past"
+	}
 };

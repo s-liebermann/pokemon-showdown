@@ -7585,4 +7585,9 @@ export const MovesText: {[id: IDEntry]: MoveText} = {
 			shortDesc: "Nearly always goes first. Always crits.",
 		},
 	},
+	beanbarrage: {
+		name: "Bean Barrage",
+		desc: "This move summons Leech Seed on the foe.",
+		shortDesc: "Summons Leech Seed.",
+	},
 };
